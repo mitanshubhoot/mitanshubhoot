@@ -25,12 +25,18 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 ### Some of my Projects
 
 <div  align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitanshubhoot&repo=Elderly-Fall-Detection&show_icons=true&theme=tokyonight" >
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitanshubhoot&repo=Applied-Machine-Learning&show_icons=true&theme=tokyonight" >
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitanshubhoot&repo=WebRTC-Video-Conferencing&show_icons=true&theme=tokyonight" >
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitanshubhoot&repo=IBM-FHE-ToolKit&show_icons=true&theme=tokyonight" >
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitanshubhoot&repo=MOS-Operating-System&show_icons=true&theme=tokyonight" >
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitanshubhoot&repo=Elderly-Fall-Detection&show_icons=true&theme=tokyonight" >
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitanshubhoot&repo=WebRTC-Video-Conferencing&show_icons=true&theme=tokyonight" >
-                <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitanshubhoot&repo=IBM-FHE-ToolKit&show_icons=true&theme=tokyonight" >
 
-</di>
+</div>
+
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/drive/u/1/folders/1wLiACxXr3iy9yq1Cz69H-p7Rxl3pwItQ" download>Download my resume</a>
 
 ### Connect with me!
 <div>
@@ -42,10 +48,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 <!--
      Oh, hello there, recruiters!
 -->
-
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 

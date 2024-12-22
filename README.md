@@ -13,10 +13,6 @@
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
 
-<div>
-    <img src="ascii-art.jpg" alt="About Me Terminal GIF"/>
-</div>
-
 <!--
      My mission, because I'm a superhero!
 -->

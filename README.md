@@ -14,7 +14,7 @@
 -->
 
 <div>
-    <img src="ascii-art.png" alt="About Me Terminal GIF"/>
+    <img src="ascii-art.jpg" alt="About Me Terminal GIF"/>
 </div>
 
 <!--

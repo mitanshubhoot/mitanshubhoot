@@ -41,13 +41,9 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 ### Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/mitanshu-bhoot-86904a184/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="50" height="50"/>
     </a>
 </div>
-
-<!--
-     Oh, hello there, recruiters!
--->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 

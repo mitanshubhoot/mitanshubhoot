@@ -25,6 +25,9 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 ### Some of my Projects
 
 <div  align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitanshubhoot&repo=talk-to-your-db&show_icons=true&theme=tokyonight" >
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitanshubhoot&repo=third-party-risk-management&show_icons=true&theme=tokyonight" >
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitanshubhoot&repo=hra-amap-kidney-assessment&show_icons=true&theme=tokyonight" >
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitanshubhoot&repo=Elderly-Fall-Detection&show_icons=true&theme=tokyonight" >
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitanshubhoot&repo=Applied-Machine-Learning&show_icons=true&theme=tokyonight" >
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitanshubhoot&repo=WebRTC-Video-Conferencing&show_icons=true&theme=tokyonight" >
